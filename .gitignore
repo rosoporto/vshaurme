@@ -1,1 +1,7 @@
-.idea/
+.git/*
+
+.idea
+.vscode
+.DS_Store
+
+*.sqlite3
